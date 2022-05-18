@@ -1,0 +1,23 @@
+.container{
+    margin-top: 50px;
+}
+.card-area{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card-area-items{
+    margin: 50px 10px;
+    border: 1px solid grey;
+}
+.search-area{
+    margin: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.search-input{
+    width: 400px;
+}
+.search-select{
+    width: 200px;
+}
